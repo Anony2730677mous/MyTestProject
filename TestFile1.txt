@@ -6,6 +6,4 @@ testfile13
 Vnositstya dopolnitelnoe izmenenie v proekt
 Another changes added
 Another changes added
-<<<<<<< HEAD
-Header
->>>>>>> feature/add-header
+show git push command
