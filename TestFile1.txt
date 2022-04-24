@@ -6,5 +6,6 @@ testfile13
 Vnositstya dopolnitelnoe izmenenie v proekt
 Another changes added
 Another changes added
-add header
-Add Header Master
+<<<<<<< HEAD
+Header
+>>>>>>> feature/add-header
