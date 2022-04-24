@@ -7,3 +7,4 @@ Vnositstya dopolnitelnoe izmenenie v proekt
 Another changes added
 Another changes added
 show git push command
+send git push command
