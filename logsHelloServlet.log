@@ -1,0 +1,9 @@
+2022-11-29 18:41:56,955 INFO HelloServlet [http-nio-8080-exec-6] User Name is: Karl
+2022-11-29 18:41:56,968 INFO HelloServlet [http-nio-8080-exec-6] User`s Session iD: 37D5509AE34F98FB0DA26C4A84626319
+2022-11-29 18:41:56,969 INFO HelloServlet [http-nio-8080-exec-6] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-11-29 18:42:17,550 INFO HelloServlet [http-nio-8080-exec-6] User Name is: Karl
+2022-11-29 18:42:17,550 INFO HelloServlet [http-nio-8080-exec-6] User`s Session iD: 37D5509AE34F98FB0DA26C4A84626319
+2022-11-29 18:42:17,550 INFO HelloServlet [http-nio-8080-exec-6] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-11-29 18:42:29,843 INFO HelloServlet [http-nio-8080-exec-1] User Name is: Karl
+2022-11-29 18:42:29,843 INFO HelloServlet [http-nio-8080-exec-1] User`s Session iD: 37D5509AE34F98FB0DA26C4A84626319
+2022-11-29 18:42:29,843 INFO HelloServlet [http-nio-8080-exec-1] User`s stateString: Ты потерял память. Принять вызов НЛО?
