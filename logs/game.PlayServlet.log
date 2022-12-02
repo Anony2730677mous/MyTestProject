@@ -1,0 +1,15 @@
+2022-12-02 12:47:54,258 INFO g.PlayServlet [http-nio-8080-exec-4] User`s Session iD: D7C0D63AC9B74DE38FDB6DEDF6AFB685
+2022-12-02 12:47:54,258 INFO g.PlayServlet [http-nio-8080-exec-4] User Name is: Karl
+2022-12-02 12:47:54,259 INFO g.PlayServlet [http-nio-8080-exec-4] User`s choice: false
+2022-12-02 12:47:54,259 INFO g.PlayServlet [http-nio-8080-exec-4] User`s number of game: 1
+2022-12-02 12:47:54,259 INFO g.PlayServlet [http-nio-8080-exec-4] User`s stateString: Ты не пошел на переговоры. Поражение!
+2022-12-02 12:47:59,963 INFO g.PlayServlet [http-nio-8080-exec-6] User`s Session iD: D7C0D63AC9B74DE38FDB6DEDF6AFB685
+2022-12-02 12:47:59,963 INFO g.PlayServlet [http-nio-8080-exec-6] User Name is: Karl
+2022-12-02 12:47:59,964 INFO g.PlayServlet [http-nio-8080-exec-6] User`s choice: true
+2022-12-02 12:47:59,964 INFO g.PlayServlet [http-nio-8080-exec-6] User`s stateString: Ты принял вызов. Поднимешься на мостик к их капитану?
+2022-12-02 12:47:59,965 WARN g.PlayServlet [http-nio-8080-exec-6] request and response  org.apache.catalina.connector.RequestFacade@21aa1525org.apache.catalina.connector.ResponseFacade@5aafe127
+2022-12-02 12:48:01,258 INFO g.PlayServlet [http-nio-8080-exec-7] User`s Session iD: D7C0D63AC9B74DE38FDB6DEDF6AFB685
+2022-12-02 12:48:01,258 INFO g.PlayServlet [http-nio-8080-exec-7] User Name is: Karl
+2022-12-02 12:48:01,258 INFO g.PlayServlet [http-nio-8080-exec-7] User`s choice: false
+2022-12-02 12:48:01,258 INFO g.PlayServlet [http-nio-8080-exec-7] User`s number of game: 2
+2022-12-02 12:48:01,258 INFO g.PlayServlet [http-nio-8080-exec-7] User`s stateString: Ты отказался подниматься на мостик. Поражение!
