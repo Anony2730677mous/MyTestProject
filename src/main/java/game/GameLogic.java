@@ -4,10 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GameLogic {
-    private static List<String> answerList = new ArrayList<>();
+    private static final List<String> answerList = new ArrayList<>();
     void addAnswer()
     {
-
         answerList.add(0, "Ты потерял память. Принять вызов НЛО?");
         answerList.add(1, "Ты принял вызов. Поднимешься на мостик к их капитану?");
         answerList.add(2, "Подняться на мостик корабля");
@@ -21,7 +20,7 @@ public class GameLogic {
         answerList.add(10, "");
         answerList.add(11, "Ты рассказал неправду о себе. Поражение!");
     }
-    public String answerListGetAnswer(String getString)
+    public String answerListGetAnswer(String getString) // для проведения тестов
     {
         String stringToReturn = "";
         for(String string: answerList)
@@ -33,7 +32,6 @@ public class GameLogic {
     }
     public List<String> answer(String gameState)
     {
-        GameLogic gameLogic = new GameLogic();
         if(gameState == null)
         {
             throw new IllegalArgumentException("Входящая строка состояния = null");
@@ -45,7 +43,6 @@ public class GameLogic {
             answer.add(1, answerList.get(2));
             answer.add(2, answerList.get(3));
             answer.add(3, answerList.get(4));
-
         }
         else if(gameState.equals(answerList.get(1))) //gameState 1
         {
@@ -54,10 +51,9 @@ public class GameLogic {
             answer.add(2, answerList.get(7));
             answer.add(3, answerList.get(8));
         }
-        else if(gameState.equals(gameLogic.answerList.get(5))) //gameState 2
+        else if(gameState.equals(answerList.get(5))) //gameState 2
         {
-
-            answer.add(0, answerList.get(9)); //gameState 2
+            answer.add(0, answerList.get(9)); //gameState 3
             answer.add(1, answerList.get(10));
             answer.add(2, answerList.get(10));
             answer.add(3, answerList.get(11));
