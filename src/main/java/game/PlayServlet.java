@@ -1,3 +1,5 @@
+package game;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -17,13 +19,14 @@ public class PlayServlet extends HttpServlet
 {
     private static final Logger LOGGER = LogManager.getLogger(PlayServlet.class);
     GameLogic answerLogic = new GameLogic();
+
     GameCount game = new GameCount();
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String path = "/WEB-INF/views/play.jsp";
         String finishPath = "/WEB-INF/views/finish.jsp";
-
+        answerLogic.addAnswer();
         HttpSession session = req.getSession();
         LOGGER.info("User`s Session iD: " + session.getId());
         String stateString = (String) session.getAttribute("stateString");

@@ -1,16 +1,16 @@
-2022-11-29 19:45:52,414 INFO HelloServlet [http-nio-8080-exec-4] User Name is: Karl
-2022-11-29 19:45:52,436 INFO HelloServlet [http-nio-8080-exec-4] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
-2022-11-29 19:45:52,437 INFO HelloServlet [http-nio-8080-exec-4] User`s stateString: Ты потерял память. Принять вызов НЛО?
-2022-11-29 19:45:53,823 WARN HelloServlet [http-nio-8080-exec-4] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
-2022-11-29 19:46:04,785 INFO HelloServlet [http-nio-8080-exec-7] User Name is: admin
-2022-11-29 19:46:04,786 INFO HelloServlet [http-nio-8080-exec-7] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
-2022-11-29 19:46:04,786 INFO HelloServlet [http-nio-8080-exec-7] User`s stateString: Ты потерял память. Принять вызов НЛО?
-2022-11-29 19:46:04,790 WARN HelloServlet [http-nio-8080-exec-7] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
-2022-11-29 19:46:11,814 INFO HelloServlet [http-nio-8080-exec-9] User Name is: Karl
-2022-11-29 19:46:11,814 INFO HelloServlet [http-nio-8080-exec-9] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
-2022-11-29 19:46:11,815 INFO HelloServlet [http-nio-8080-exec-9] User`s stateString: Ты потерял память. Принять вызов НЛО?
-2022-11-29 19:46:11,819 WARN HelloServlet [http-nio-8080-exec-9] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
-2022-11-29 19:46:24,458 INFO HelloServlet [http-nio-8080-exec-3] User Name is: admin
-2022-11-29 19:46:24,459 INFO HelloServlet [http-nio-8080-exec-3] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
-2022-11-29 19:46:24,459 INFO HelloServlet [http-nio-8080-exec-3] User`s stateString: Ты потерял память. Принять вызов НЛО?
-2022-11-29 19:46:24,462 WARN HelloServlet [http-nio-8080-exec-3] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
+2022-11-29 19:45:52,414 INFO game.HelloServlet [http-nio-8080-exec-4] User Name is: Karl
+2022-11-29 19:45:52,436 INFO game.HelloServlet [http-nio-8080-exec-4] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
+2022-11-29 19:45:52,437 INFO game.HelloServlet [http-nio-8080-exec-4] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-11-29 19:45:53,823 WARN game.HelloServlet [http-nio-8080-exec-4] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
+2022-11-29 19:46:04,785 INFO game.HelloServlet [http-nio-8080-exec-7] User Name is: admin
+2022-11-29 19:46:04,786 INFO game.HelloServlet [http-nio-8080-exec-7] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
+2022-11-29 19:46:04,786 INFO game.HelloServlet [http-nio-8080-exec-7] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-11-29 19:46:04,790 WARN game.HelloServlet [http-nio-8080-exec-7] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
+2022-11-29 19:46:11,814 INFO game.HelloServlet [http-nio-8080-exec-9] User Name is: Karl
+2022-11-29 19:46:11,814 INFO game.HelloServlet [http-nio-8080-exec-9] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
+2022-11-29 19:46:11,815 INFO game.HelloServlet [http-nio-8080-exec-9] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-11-29 19:46:11,819 WARN game.HelloServlet [http-nio-8080-exec-9] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
+2022-11-29 19:46:24,458 INFO game.HelloServlet [http-nio-8080-exec-3] User Name is: admin
+2022-11-29 19:46:24,459 INFO game.HelloServlet [http-nio-8080-exec-3] User`s Session iD: 789074E68F0C45237BE13A23FE4A3D1E
+2022-11-29 19:46:24,459 INFO game.HelloServlet [http-nio-8080-exec-3] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-11-29 19:46:24,462 WARN game.HelloServlet [http-nio-8080-exec-3] request and response org.apache.catalina.connector.RequestFacade@5c3026a5org.apache.catalina.connector.ResponseFacade@1bd812e0
