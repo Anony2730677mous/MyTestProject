@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
-<body class="p-3 mb-2 bg-secondary">
+<body style="background-image: url('https://99px.ru/sstorage/53/2011/04/tmb_13208_7707.jpg')" >
 
 <p class="p-1 mb-2 bg-primary text-white" align="center">Привет: <%= session.getAttribute("name")%></p>
 

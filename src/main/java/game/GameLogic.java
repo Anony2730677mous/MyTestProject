@@ -5,6 +5,7 @@ import java.util.List;
 
 public class GameLogic {
     private static final List<String> answerList = new ArrayList<>();
+    private final String nullMessage = "Входящий аргумент = null";
     void addAnswer()
     {
         answerList.add(0, "Ты потерял память. Принять вызов НЛО?");
@@ -34,7 +35,7 @@ public class GameLogic {
     {
         if(gameState == null)
         {
-            throw new IllegalArgumentException("Входящая строка состояния = null");
+            throw new IllegalArgumentException(nullMessage);
         }
         List<String> answer = new ArrayList<>();
         if(gameState.equals(answerList.get(0))) //gameState 0

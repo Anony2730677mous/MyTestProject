@@ -18,14 +18,15 @@ import java.io.IOException;
 public class PlayServlet extends HttpServlet
 {
     private static final Logger LOGGER = LogManager.getLogger(PlayServlet.class);
+    private final String path = "/WEB-INF/views/play.jsp";
+    private final String finishPath = "/WEB-INF/views/finish.jsp";
+    private final String victory = "Победа!";
     GameLogic answerLogic = new GameLogic();
-
     GameCount game = new GameCount();
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String path = "/WEB-INF/views/play.jsp";
-        String finishPath = "/WEB-INF/views/finish.jsp";
+
         answerLogic.addAnswer();
         HttpSession session = req.getSession();
         LOGGER.info("User`s Session iD: " + session.getId());
@@ -54,7 +55,7 @@ public class PlayServlet extends HttpServlet
 
             stateString1 = answerLogic.answer(stateString).get(0);
             LOGGER.info("User`s stateString: " + stateString1);
-            if(stateString1.endsWith("Победа!"))
+            if(stateString1.endsWith(victory))
             {
                 gameCount++;
                 LOGGER.info("User`s number of game: " + gameCount);

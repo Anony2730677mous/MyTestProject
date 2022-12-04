@@ -42,7 +42,6 @@ class GameCountTest {
     @Test
     void getGameCount_Return_Number_Test()
     {
-
         Assertions.assertEquals(zero, gameCount.getGameCount(name));
     }
     @Test
