@@ -1,8 +1,4 @@
-2022-12-04 11:38:02,737 INFO g.HelloServlet [http-nio-8080-exec-4] User Name is: Karl
-2022-12-04 11:38:02,755 INFO g.HelloServlet [http-nio-8080-exec-4] User`s Session iD: 833EC5F83B2EA6824D09BAA2F2DDE28C
-2022-12-04 11:38:02,756 INFO g.HelloServlet [http-nio-8080-exec-4] User`s stateString: Ты потерял память. Принять вызов НЛО?
-2022-12-04 11:38:04,187 WARN g.HelloServlet [http-nio-8080-exec-4] request and response org.apache.catalina.connector.RequestFacade@27b15426org.apache.catalina.connector.ResponseFacade@17f87a54
-2022-12-04 11:38:21,255 INFO g.HelloServlet [http-nio-8080-exec-9] User Name is: Karl
-2022-12-04 11:38:21,256 INFO g.HelloServlet [http-nio-8080-exec-9] User`s Session iD: 833EC5F83B2EA6824D09BAA2F2DDE28C
-2022-12-04 11:38:21,256 INFO g.HelloServlet [http-nio-8080-exec-9] User`s stateString: Ты потерял память. Принять вызов НЛО?
-2022-12-04 11:38:21,262 WARN g.HelloServlet [http-nio-8080-exec-9] request and response org.apache.catalina.connector.RequestFacade@27b15426org.apache.catalina.connector.ResponseFacade@17f87a54
+2022-12-05 18:39:39,558 INFO g.HelloServlet [http-nio-8080-exec-6] User Name is: Karl
+2022-12-05 18:39:39,605 INFO g.HelloServlet [http-nio-8080-exec-6] User`s Session iD: 2AFFC9A278FCDDEA95111C046EBEBF5F
+2022-12-05 18:39:39,605 INFO g.HelloServlet [http-nio-8080-exec-6] User`s stateString: Ты потерял память. Принять вызов НЛО?
+2022-12-05 18:39:41,134 WARN g.HelloServlet [http-nio-8080-exec-6] request and response org.apache.catalina.connector.RequestFacade@6e216c4borg.apache.catalina.connector.ResponseFacade@7b6394da
