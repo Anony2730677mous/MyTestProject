@@ -1,15 +1,5 @@
-2022-12-05 18:39:43,503 INFO g.PlayServlet [http-nio-8080-exec-8] User`s Session iD: 2AFFC9A278FCDDEA95111C046EBEBF5F
-2022-12-05 18:39:43,503 INFO g.PlayServlet [http-nio-8080-exec-8] User Name is: Karl
-2022-12-05 18:39:43,503 INFO g.PlayServlet [http-nio-8080-exec-8] User`s choice: true
-2022-12-05 18:39:43,504 INFO g.PlayServlet [http-nio-8080-exec-8] User`s stateString: Ты принял вызов. Поднимешься на мостик к их капитану?
-2022-12-05 18:39:43,504 WARN g.PlayServlet [http-nio-8080-exec-8] request and response  org.apache.catalina.connector.RequestFacade@6e216c4borg.apache.catalina.connector.ResponseFacade@7b6394da
-2022-12-05 18:39:45,875 INFO g.PlayServlet [http-nio-8080-exec-9] User`s Session iD: 2AFFC9A278FCDDEA95111C046EBEBF5F
-2022-12-05 18:39:45,875 INFO g.PlayServlet [http-nio-8080-exec-9] User Name is: Karl
-2022-12-05 18:39:45,876 INFO g.PlayServlet [http-nio-8080-exec-9] User`s choice: true
-2022-12-05 18:39:45,876 INFO g.PlayServlet [http-nio-8080-exec-9] User`s stateString: Ты поднялся на мостик. Ты кто?
-2022-12-05 18:39:45,883 WARN g.PlayServlet [http-nio-8080-exec-9] request and response  org.apache.catalina.connector.RequestFacade@6e216c4borg.apache.catalina.connector.ResponseFacade@7b6394da
-2022-12-05 18:39:47,824 INFO g.PlayServlet [http-nio-8080-exec-10] User`s Session iD: 2AFFC9A278FCDDEA95111C046EBEBF5F
-2022-12-05 18:39:47,824 INFO g.PlayServlet [http-nio-8080-exec-10] User Name is: Karl
-2022-12-05 18:39:47,824 INFO g.PlayServlet [http-nio-8080-exec-10] User`s choice: false
-2022-12-05 18:39:47,825 INFO g.PlayServlet [http-nio-8080-exec-10] User`s number of game: 1
-2022-12-05 18:39:47,825 INFO g.PlayServlet [http-nio-8080-exec-10] User`s stateString: Ты рассказал неправду о себе. Поражение!
+2022-12-05 19:33:56,369 INFO g.PlayServlet [http-nio-8080-exec-1] User`s Session iD: 1F5526B97D0BC241FE630230A41BD2BB
+2022-12-05 19:33:56,369 INFO g.PlayServlet [http-nio-8080-exec-1] User Name is: Karl
+2022-12-05 19:33:56,369 INFO g.PlayServlet [http-nio-8080-exec-1] User`s choice: false
+2022-12-05 19:33:56,369 INFO g.PlayServlet [http-nio-8080-exec-1] User`s number of game: 1
+2022-12-05 19:33:56,370 INFO g.PlayServlet [http-nio-8080-exec-1] User`s stateString: Ты не пошел на переговоры. Поражение!
